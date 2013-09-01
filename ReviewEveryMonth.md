@@ -5,21 +5,28 @@ Review every month, on the 1st. *[Learn about Hydra here](https://medium.com/bet
 
 ### 2013 Progress: -++++--
 
+##### Sept 2013 : INPROGRESS
+I want to track at least 5 "quality times" a week. Quality times that count: quality time with significant other, close friends, myself, and work. (Use Lift if it helps.)
+* *Self Mode:* meditation
+* *Flow Mode:* photography, workout, reading
+* *People Mode:* significant other, close friends
+* *Chaos Monkey:* upheaval
+
 ##### Aug 2013 : HIT (+)
-Goal: I want to track at least 5 "quality times" a week. Quality times that count: quality time with significant other, close friends, myself, and work. 
+I want to track at least 5 "quality times" a week. Quality times that count: quality time with significant other, close friends, myself, and work. 
 * *Self Mode:* meditation
 * *Flow Mode:* meditation, photography, workout
 * *People Mode:* significant other, close friends
-* *Chaos Monkey:* sick, upheaval
+* *Chaos Monkey:* upheaval
 
 ##### Jul 2013 : MISS (-)
 Meditate at least 5 minutes 5 days a week.
 * *Self Mode:* meditation
 * *Flow Mode:* meditation
-* *Chaos Monkey:* upheaval
+* *Chaos Monkey:* sick, upheaval
 
-##### Future Goals
-Do my morning routine at least 5 days a week: drink a glass of water, choose one item from my memento mori as my day's theme (look look look, love your family, live by example, remember you will die, bring levitas), do a sun salutation, meditate 5 minutes.
+##### Future/Past Goals
+Do my morning routine at least 5 days a week: drink a glass of water, choose one item from my memento mori as my day's theme (love your family, live by example, remember you will die, bring levitas), do a sun salutation, meditate 5 minutes.
 * *Recovery Mode:* water
 * *Self Mode:* meditation
 * *Flow Mode:* meditation
