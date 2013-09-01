@@ -8,7 +8,6 @@
 - Health care should be available to everyone who needs it
 - The death penalty should be used in extreme and certain cases to protect the public
 - Prisons should be about protecting the public, not about punishment
-- Marijuana should be legal to grow, sell, buy, and carry
 - Owning a gun should require certification from a firearms officer verifying that they've taken a safety course, are free of criminal record, and pass a psychological mental health check every few years
 
 ## On Spirituality
