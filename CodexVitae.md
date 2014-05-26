@@ -29,6 +29,7 @@
 * [Stock and Flow](http://snarkmarket.com/2010/4890) - Robin Sloan
 * [WWIC](http://www.ftrain.com/wwic.html) - Paul Ford
 * [Top of Mind](http://www.paulgraham.com/top.html) - Paul Graham
+* [7 Things I Learned in 7 Years of Reading, Writing, and Living](http://www.brainpickings.org/index.php/2013/10/23/7-lessons-from-7-years/) - Maria Popova
 * [Fish](http://www.robinsloan.com/fish/) - Robin Sloan
 
 
