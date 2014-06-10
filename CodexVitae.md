@@ -23,6 +23,7 @@
 * [Touching the Wild](https://seriouspony.exposure.co/touching-the-wild) - Kathy Sierra
 * [Presentation Skills Considered Harmful](http://seriouspony.com/blog/2013/10/4/presentation-skills-considered-harmful) - Kathy Sierra
 * [Your App Makes Me Fat](http://seriouspony.com/blog/2013/7/24/your-app-makes-me-fat) - Kathy Sierra
+* [Design Principles](http://principles.adactio.com/) - Jeremy Keith (@adactio)
 * [The Crossroads of Should and Must](https://medium.com/medium-long/90c75eb7c5b0) - Elle Luna
 * [Navigating Stuckness](http://transom.org/?p=41667) - Jonathan Harris
 * [David Foster Wallace, in His Own Words](http://moreintelligentlife.com/story/david-foster-wallace-in-his-own-words) a.k.a. "What is Water?" - David Foster Wallace
