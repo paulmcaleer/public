@@ -22,7 +22,7 @@
 20. You must make time to relax.
 21. You must share your feelings and thoughts with other people.
 22. You must define and live the life you want to have, lest other people define and live it for you.
-
+23. You must be vulnerable in order to create something beautiful.
 
 
 
